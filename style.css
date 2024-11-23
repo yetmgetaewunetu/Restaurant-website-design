@@ -435,7 +435,8 @@ ul a:hover {
 }
 .socials div {
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
+  gap:15px;
 }
 @media (max-width: 1000px) {
   .navIcons {
